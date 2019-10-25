@@ -1,0 +1,173 @@
+body{
+  font-family: sans-serif;
+      background-color: white;
+      background-position:center;
+      background-size: cover;
+      width: 990px;
+      height: 1000px;
+    }
+h1{
+  text-align: center;
+  font-weight:300;
+}
+.boxatas{
+  width: 1365px;
+  height: 150px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: skyblue;
+}
+.icon{
+  width: 100px;
+  position: relative;
+  top: 0px;
+  left: -160px;
+}
+.RI{
+  width: 170px;
+  position: relative;
+  top:10px;
+  right: -1150px;
+}
+.tulisa{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: white;
+  position: relative;
+  top: -70px;
+  left: 100px;
+  font-weight: bold;
+}
+.tulisb{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: white;
+  position: relative;
+  top: -130px;
+  right:-220px;
+  font-weight: bold;
+}
+.tulisc{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: white;
+  position: relative;
+  top: -190px;
+  right:-330px;
+  font-weight: bold;
+}
+.tulisd{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: white;
+  position: relative;
+  top: -253px;
+  right: -450px;
+  font-weight: bold;
+}
+.tulise{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: white;
+  position: relative;
+  top: -315px;
+  right: -580px;
+  font-weight: bold;
+}
+.jbr{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: black;
+  position: relative;
+  top: -420px;
+  right: 150px;
+  font-weight: bold;
+}
+.jbr2{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: black;
+  position: relative;
+  top: -440px;
+  right: 210px;
+  font-weight: bold;
+}
+.map{
+  position: relative;
+  top:-430px;
+  left: -80px;
+  width: 1438px;
+  height: 700px;
+}
+.lokasi{
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top:-800px;
+  right:-700px;
+}
+.lokasi2{
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top:-980px;
+  right:-500px;
+}
+.lokasi3{
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top:-980px;
+  right:-800px;
+}
+.lokasi4{
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top:-770px;
+  right:-300px;
+}
+.lokasi5{
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top:-700px;
+  right:-600px;
+}
+.lokasi6{
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top:-800px;
+  right:-400px;
+}
+.lokasi7{
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top:-1000px;
+  right:-400px;
+}
+.lokasi8{
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top:-700px;
+  right:-300px;
+}
+

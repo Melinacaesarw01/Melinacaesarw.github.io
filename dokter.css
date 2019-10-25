@@ -1,0 +1,332 @@
+body{
+  font-family: sans-serif;
+      background-color: white;
+      background-position:center;
+      background-size: cover;
+      width: 990px;
+      height: 1000px;
+    }
+h1{
+  text-align: center;
+  font-weight:300;
+}
+.boxatas{
+  width: 1365px;
+  height: 150px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: skyblue;
+}
+.icon{
+  width: 100px;
+  position: relative;
+  top: 0px;
+  left: -160px;
+}
+.RI{
+  width: 170px;
+  position: relative;
+  top:10px;
+  right: -1150px;
+}
+.tulisa{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: white;
+  position: relative;
+  top: -70px;
+  left: 100px;
+  font-weight: bold;
+}
+.tulisb{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: white;
+  position: relative;
+  top: -130px;
+  right:-220px;
+  font-weight: bold;
+}
+.tulisc{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: white;
+  position: relative;
+  top: -190px;
+  right:-330px;
+  font-weight: bold;
+}
+.tulisd{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: white;
+  position: relative;
+  top: -253px;
+  right: -450px;
+  font-weight: bold;
+}
+.tulise{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: white;
+  position: relative;
+  top: -315px;
+  right: -580px;
+  font-weight: bold;
+}
+.jbr{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: black;
+  position: relative;
+  top: -420px;
+  right: 150px;
+  font-weight: bold;
+}
+.jbr2{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: black;
+  position: relative;
+  top: -440px;
+  right: 210px;
+  font-weight: bold;
+}
+.cari{
+  width: 600px;
+  height: 40px;
+  position: relative;
+  top: -400px;
+  left: 300px;
+  background-color: white;
+  border-radius: 2px;
+}
+.button{
+  width: 60px;
+  height: 40px;
+  position: relative;
+  left:300px;
+  top: -400px;
+  background-color: green;
+  border-radius: 5px;
+}
+.iconcari{
+  width: 30px;
+  position: relative;
+  top: -390px;
+  left: 190px;
+}
+.box1{
+  width: 200px;
+  height: 250px;
+  position: relative;
+  top: -300px;
+  left: 110px;
+  border-radius: 10px;
+  background-color:#2ED1A2; 
+}
+.dokter1{
+  width: 70px;
+  position: relative;
+  top: -530px;
+  left:170px;
+}
+.d1{
+  font-family: Times New Roman;
+  font-size: 20px;
+  color: white;
+  position: relative;
+  font-weight: bold;
+  top: -530px;
+  left: -280px;
+}
+.dasar{
+  width: 1375px;
+  height: 900px;
+  position: absolute;
+  top: 150px;
+  left:-10px;
+}
+.box2{
+  width: 200px;
+  height: 250px;
+  position: relative;
+  top: -750px;
+  left: 380px;
+  border-radius: 10px;
+  background-color:#2ED1A2; 
+}
+.dokter2{
+  width: 70px;
+  position: relative;
+  top: -980px;
+  left: 440px;
+}
+.a1{
+  font-family: Times New Roman;
+  font-size: 20px;
+  color: white;
+  position: relative;
+  font-weight: bold;
+  top: -980px;
+  left: -15px;
+}
+.box3{
+  width: 200px;
+  height: 250px;
+  position: relative;
+  top: -1200px;
+  left: 650px;
+  border-radius: 10px;
+  background-color:#2ED1A2; 
+}
+.dokter3{
+  width: 70px;
+  position: relative;
+  top: -1430px;
+  left: 710px;
+}
+.b1{
+  font-family: Times New Roman;
+  font-size: 20px;
+  color: white;
+  position: relative;
+  font-weight: bold;
+  top: -1430px;
+  left: 260px;
+}
+.box4{
+  width: 200px;
+  height: 250px;
+  position: relative;
+  top: -1650px;
+  left: 920px;
+  border-radius: 10px;
+  background-color:#2ED1A2;
+}
+.dokter4{
+  width: 70px;
+  position: relative;
+  top: -1870px;
+  left: 980px;
+}
+.c1{
+  font-family: Times New Roman;
+  font-size: 20px;
+  color: white;
+  position: relative;
+  font-weight: bold;
+  top: -1880px;
+  left: 525px;
+}
+.box5{
+  width: 200px;
+  height: 250px;
+  position: relative;
+  top: -1800px;
+  left: 920px;
+  border-radius: 10px;
+  background-color:#2ED1A2; 
+}
+.dokter5{
+  width: 70px;
+  position: relative;
+  top: -2020px;
+  left: 980px;
+}
+.e1{
+  font-family: Times New Roman;
+  font-size: 20px;
+  color: white;
+  position: relative;
+  font-weight: bold;
+  top: -2010px;
+  left: 525px;
+}
+.box6{
+  width: 200px;
+  height: 250px;
+  position: relative;
+  top: -2240px;
+  left: 650px;
+  border-radius: 10px;
+  background-color:#2ED1A2; 
+}
+.dokter6{
+  width: 70px;
+  position: relative;
+  top: -2460px;
+  left: 710px;
+}
+.f1{
+  font-family: Times New Roman;
+  font-size: 20px;
+  color: white;
+  position: relative;
+  font-weight: bold;
+  top: -2450px;
+  left: 260px;
+}
+.box7{
+  width: 200px;
+  height: 250px;
+  position: relative;
+  top: -2690px;
+  left: 380px;
+  border-radius: 10px;
+  background-color:#2ED1A2; 
+}
+.dokter7{
+  width: 70px;
+  position: relative;
+  top: -2910px;
+  left: 440px;
+}
+.g1{
+  font-family: Times New Roman;
+  font-size: 20px;
+  color: white;
+  position: relative;
+  font-weight: bold;
+  top: -2900px;
+  left: -15px;
+}
+.box8{
+  width: 200px;
+  height: 250px;
+  position: relative;
+  top: -3130px;
+  left: 110px;
+  border-radius: 10px;
+  background-color:#2ED1A2; 
+}
+.dokter8{
+  width: 70px;
+  position: relative;
+  top: -3350px;
+  left: 170px;
+}
+.h1{
+  font-family: Times New Roman;
+  font-size: 20px;
+  color: white;
+  position: relative;
+  font-weight: bold;
+  top: -3340px;
+  left: -280px;
+}
